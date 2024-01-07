@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MADESH-KUMAR-M
+- 👋 Hi, I’m MADESH KUMAR M
 - 👀 I’m interested in Full-stack Development and Robotics
 - 🌱I'm currently engaged in Web development
 - 💞️ I’m looking to collaborate on many interesting project
